@@ -1,0 +1,1 @@
+web: gunicorn Weather_app.wsgi --log-file -
