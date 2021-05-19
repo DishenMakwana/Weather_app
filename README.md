@@ -1,8 +1,5 @@
 # TodoApp
-## view website on : https://weather-dm.herokuapp.com/
-
 Website is made using the Django frame work which is the widely used frame work to develop the website using python.
-
 
 website is the part of our acadamics and it is still in the developing phase. So website is not available at any domain,  but it can be easily seen on your local computer. 
 
